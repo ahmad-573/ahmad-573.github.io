@@ -20,7 +20,7 @@ twitter: https://twitter.com/AhmadM_573
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/pic.png
+avatar: ./assets/img/pic.jpeg
 favicon: ./assets/img/a.png
 favicon_dark: ./assets/img/a.png
 
