@@ -10,6 +10,8 @@ Previously, I was a researcher in computer vision, affiliated with the [Intellig
 
 I hold a Bachelor degree in Computer Science from the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/) in Lahore, Pakistan
 
+*Apart from all that, you will probably find me playing chess during my free time :p*
+
 ## Research Interests
 
 - **Computer Vision:** Video and Vision-Language Understanding
