@@ -3,7 +3,7 @@ main:
   - title: Boosting Adversarial Transferability Using Dynamic Cues
     authors: <strong>Ahmad Mahmood*</strong>, Muzammal Naseer*, Salman Khan, Fahad Khan (*Equal Contribution)
     conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023..
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2302.12252.pdf
     code: https://github.com/Muzammal-Naseer/DCViT-AT
     bibtex:
@@ -17,3 +17,12 @@ main:
     pdf: https://arxiv.org/pdf/2403.14743
     code: https://github.com/ahmad-573/VURF
     image: ./assets/img/vurf.png
+
+  - title: "InTraGen: Trajectory-controlled Video Generation for Object Interactions"
+    authors: Zuhao Liu, Aleksandar Yanev, <strong>Ahmad Mahmood</strong>, Ivan Nikolov, Saman Motamed, Wei-Shi Zheng, Xi Wang, Luc Van Gool, Danda Pani Paudel
+    conference_short: 
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    pdf: https://arxiv.org/pdf/2403.14743
+    code: https://github.com/ahmad-573/VURF
+    image: ./assets/img/intragen.png
+    notes: Submitted
