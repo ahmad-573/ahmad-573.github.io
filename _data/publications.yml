@@ -10,9 +10,9 @@ main:
     image: ./assets/img/teaser.png
     notes:
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
+  - title: "VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding"
+    authors: <strong>Ahmad Mahmood</strong>, Ashmal Vayani, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan
+    conference_short: NEURIPS Workshop
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
