@@ -3,19 +3,9 @@ main:
   - title: Boosting Adversarial Transferability Using Dynamic Cues
     authors: <strong>Ahmad Mahmood*</strong>, Muzammal Naseer*, Salman Khan, Fahad Khan (*Equal Contribution)
     conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2023..
     pdf: https://arxiv.org/pdf/2302.12252.pdf
     code: https://github.com/Muzammal-Naseer/DCViT-AT
     bibtex:
     image: ./assets/img/teaser.png
-    notes:
-
-  - title: VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding
-    authors: <strong> Ahmad Mahmood </strong>, Ashmal Vayani, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan
-    conference_short: Neurips Workshop
-    conference: Workshop on Video-Language Models, Neurips 2024
-    pdf: https://arxiv.org/pdf/2403.14743
-    code: TBA
-    bibtex:
-    image: ./assets/img/vurf.png
     notes:
