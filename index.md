@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an MSc student at [ETH Zurich](https://ethz.ch/en.html) majoring in Machine Intelligence with an intended minor in Theoretical Computer Science. Currently, I am doing my Master's Thesis at Disney Research Zurich focusing on Image/Video Deblurring and Super Resolution using Diffusion Models.
+I am an MSc student at [ETH Zurich](https://ethz.ch/en.html) majoring in Machine Intelligence with an intended minor in Theoretical Computer Science. Currently, I am doing my Master's Thesis at [Disney Research](https://studios.disneyresearch.com) Zurich focusing on Image/Video Deblurring and Super Resolution using Diffusion Models.
 
 Previously, I worked as a research intern at [INSAIT](https://insait.ai), where I was supervised by [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en) and [Dr. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en). Additionally, I was a researcher in computer vision, affiliated with the [Intelligent Visual Analytics Lab (IVAL)](https://www.ival-mbzuai.com/) at the [Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/) where I was supervised by [Dr. Salman Khan](https://scholar.google.com.pk/citations?user=M59O9lkAAAAJ&hl=en).
 
