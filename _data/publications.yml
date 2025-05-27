@@ -20,8 +20,8 @@ main:
 
   - title: "InTraGen: Trajectory-controlled Video Generation for Object Interactions"
     authors: Zuhao Liu, Aleksandar Yanev, <strong>Ahmad Mahmood</strong>, Ivan Nikolov, Saman Motamed, Wei-Shi Zheng, Xi Wang, Luc Van Gool, Danda Pani Paudel
-    conference_short: CVPR (submitted)
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    conference_short: ICCV (submitted)
+    conference: International Conference on Computer Vision (ICCV)
     pdf: https://arxiv.org/pdf/2411.16804
     code: https://github.com/insait-institute/InTraGen
     image: ./assets/img/intragen.png
