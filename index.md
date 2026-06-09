@@ -21,7 +21,6 @@ I hold a BSc in Computer Science from the [Lahore University of Management Scien
 ## News
 - **[Jul. 2025]** Joined [Cast Insights](https://www.castinsights.com) as a Machine Learning Engineer in San Francisco.
 - **[Feb. 2025]** Started my Master's Thesis at [Disney Research](https://studios.disneyresearch.com) Zurich on image deblurring using diffusion-SSM hybrid architectures.
-- **[Jan. 2025]** Our paper InTraGen is accepted at the **International Conference on Computer Vision (ICCV 2025)**.
 - **[Sep. 2024]** Assisted [Dr. Michael Hoffmann](https://people.inf.ethz.ch/hoffmann/) in the course Algorithms Lab at ETH Zurich.
 - **[Mar. 2024]** Started my internship as a computer vision researcher at [INSAIT](https://insait.ai) under the supervision of [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en) and [Dr. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en).
 - **[Sep. 2023]** Started my MSc in Computer Science at [ETH Zurich](https://ethz.ch/en.html).
