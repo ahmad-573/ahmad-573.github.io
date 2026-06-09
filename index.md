@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Machine Learning Engineer at [Cast Insights](https://www.castinsights.com) in San Francisco, where I build retrieval and reasoning systems using LLMs, RAG, and LangChain/LangGraph pipelines.
+I am a Machine Learning Engineer at [Cast Insights](https://www.castinsights.com) in San Francisco, building production multimodal retrieval and reasoning systems across text, image, and audio, along with the ML infrastructure to serve them at scale.
 
 Previously, I completed my MSc in Computer Science at [ETH Zurich](https://ethz.ch/en.html) (GPA: 5.4/6), where I did my Master's Thesis at [Disney Research](https://studios.disneyresearch.com) Zurich on real-world image deblurring using a novel diffusion-SSM hybrid architecture. Before that, I worked as a research intern at [INSAIT](https://insait.ai) (Sofia University), supervised by [Dr. Danda Paudel](https://scholar.google.ch/citations?user=W43pvPkAAAAJ&hl=en) and [Dr. Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en), where our work on trajectory-controlled video generation was accepted at ICCV 2025. I was also a researcher at the [Intelligent Visual Analytics Lab (IVAL)](https://www.ival-mbzuai.com/) at [MBZUAI](https://mbzuai.ac.ae/), supervised by [Dr. Salman Khan](https://scholar.google.com.pk/citations?user=M59O9lkAAAAJ&hl=en).
 
