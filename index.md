@@ -36,3 +36,9 @@ I hold a BSc in Computer Science from the [Lahore University of Management Scien
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Daily Chess Puzzle ♕
+
+*Think you can solve it? A new puzzle every day, courtesy of [Lichess](https://lichess.org).*
+
+<iframe src="https://lichess.org/training/frame" style="width: 100%; max-width: 400px; height: 444px; display: block; margin: 0 auto;" allowtransparency="true" frameborder="0"></iframe>
