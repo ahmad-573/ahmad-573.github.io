@@ -36,8 +36,3 @@ I hold a BSc in Computer Science from the [Lahore University of Management Scien
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
-
-<div style="text-align:center; margin-top:20px;">
-  <canvas id="sierpinski-canvas" style="display:inline-block; border-radius:4px; cursor:pointer;" title="Click to restart"></canvas>
-  <p style="font-size:0.85rem; opacity:0.5; margin-top:6px;">Sierpinski Triangle — chaos game in action. Click to restart.</p>
-</div>
